@@ -50,9 +50,10 @@ nav {
 	margin-bottom: calc(100vh - 688px)
 }
 
+
 .screen {
 	position: absolute;
-	transition: ease-in-out 0s;
+	transition: ease-in 0.4s;
 }
 
 .right {
